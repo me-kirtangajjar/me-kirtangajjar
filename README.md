@@ -16,18 +16,18 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/me-kirtangajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me-kirtangajjar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/me_kirtangajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="me_kirtangajjar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/me_kirtangajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="me_kirtangajjar" height="30" width="40" /></a>
-<a href="https://dev.to/me_kirtangajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="me_kirtangajjar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kirtan-gajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kirtan-gajjar" height="30" width="40" /></a>
-<a href="https://medium.com/@me_kirtangajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@me_kirtangajjar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/me-kirtangajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me-kirtangajjar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/me_kirtangajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="me_kirtangajjar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/me_kirtangajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="me_kirtangajjar" height="30" width="40" /></a>
+<a href="https://dev.to/me_kirtangajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="me_kirtangajjar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/kirtan-gajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kirtan-gajjar" height="30" width="40" /></a>
+<a href="https://medium.com/@me_kirtangajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@me_kirtangajjar" height="30" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> 
+  <!-- <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> 
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> 
-  </a>
+  </a> -->
   <!-- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> -->
@@ -70,9 +70,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+  <!-- <a href="https://golang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a>
+  </a> -->
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
   </a>
