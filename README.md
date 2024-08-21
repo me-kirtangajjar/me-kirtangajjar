@@ -17,8 +17,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/me-kirtangajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me-kirtangajjar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/me_kirtangajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="me_kirtangajjar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/me_kirtangajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="me_kirtangajjar" height="30" width="40" /></a>
 <a href="https://dev.to/me_kirtangajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="me_kirtangajjar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kirtan-gajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kirtan-gajjar" height="30" width="40" /></a>
 <a href="https://medium.com/@me_kirtangajjar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@me_kirtangajjar" height="30" width="40" /></a>
